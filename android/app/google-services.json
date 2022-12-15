@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "149872191226",
+    "project_id": "gctu-7fb3a",
+    "storage_bucket": "gctu-7fb3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149872191226:android:37af816c61229490088b43",
+        "android_client_info": {
+          "package_name": "com.example.gctu_students"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149872191226-1g84e8ipam9b6fc0u5fgod5pl9ci7rdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJvKWwEDaiH-GRc9rDgWBV2keNON4Q5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149872191226-1g84e8ipam9b6fc0u5fgod5pl9ci7rdi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149872191226-q4jni9pro1u1vsah24go2b8vbsqf9hro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrCode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149872191226:android:378d5e85c308eea7088b43",
+        "android_client_info": {
+          "package_name": "com.example.qr_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149872191226-1g84e8ipam9b6fc0u5fgod5pl9ci7rdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJvKWwEDaiH-GRc9rDgWBV2keNON4Q5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149872191226-1g84e8ipam9b6fc0u5fgod5pl9ci7rdi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149872191226-q4jni9pro1u1vsah24go2b8vbsqf9hro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrCode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
