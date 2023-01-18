@@ -13,7 +13,6 @@ class RoomDetails extends StatefulWidget {
 class _RoomDetailsState extends State<RoomDetails> {
   @override
   Widget build(BuildContext context) {
-    print(widget.classModel.docId);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.classModel.courseTitle),
